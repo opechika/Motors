@@ -32,5 +32,6 @@ Scenarios:
 | ol9 8le  | Audi  | Q7    | AUDI Q7 |
 | ol9 8le  | Mazda | 6     | MAZDA 6 |
 | M40 2EB  | Audi  | Q7    | AUDI Q7 |
+| M40 2EB  | Mazda | 6     | MAZDA 6 |
 
 
