@@ -122,6 +122,7 @@ this.ScenarioInitialize(scenarioInfo);
         [NUnit.Framework.DescriptionAttribute("Search for Any Car in test Table")]
         [NUnit.Framework.TestCaseAttribute("ol9 8le", "Audi", "Q7", "AUDI Q7", null)]
         [NUnit.Framework.TestCaseAttribute("ol9 8le", "Mazda", "6", "MAZDA 6", null)]
+        [NUnit.Framework.TestCaseAttribute("M40 2EB", "Audi", "Q7", "AUDI Q7", null)]
         public virtual void SearchForAnyCarInTestTable(string postcode, string make, string model, string result, string[] exampleTags)
         {
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Search for Any Car in test Table", null, exampleTags);
