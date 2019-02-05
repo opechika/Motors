@@ -75,6 +75,10 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>MotorCarSearch.feature</DependentUpon>
     </Compile>
+    <Compile Include="Helper\BaseClass.cs" />
+    <Compile Include="MotorsHooks\Hooks.cs" />
+    <Compile Include="Pages\HomePage.cs" />
+    <Compile Include="Pages\SearchResultPage.cs" />
     <Compile Include="StepDefinitions\MotorSearchSteps.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
